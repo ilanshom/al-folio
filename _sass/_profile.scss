@@ -25,7 +25,7 @@
         width: 100%;
 
         .date { width: 19%; }
-        .announcement { width: 81%; }
+        .announcement { width: 100%; }
 
         tr { text-align: left; }
         td {
@@ -34,6 +34,22 @@
             border: none;
         }
     }
+}
+
+.clean {
+  // border-top: 0;
+
+  table {
+      border-collapse: collapse;
+      width: 100%;
+
+      tr { text-align: left; }
+      td {
+          padding: 0 0;
+          vertical-align: top;
+          border: none;
+      }
+  }
 }
 
 .social {

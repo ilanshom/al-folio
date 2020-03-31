@@ -1,0 +1,7 @@
+---
+layout: page
+title: ECE313
+description: Random Processes <br> Spring 2020
+img: #/assets/img/7.jpg
+redirect: https://courses.engr.illinois.edu/ece313/sp2020/
+---

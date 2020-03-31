@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Ilan</strong> Shomorony
-description: <p><a href="http://ece.illinois.edu">Electrical and Computer Engineering</a>, <a href="http://www.illinois.edu">UIUC</a></p>
+description: <p><a href="ece.illinois.edu">Electrical and Computer Engineering</a>, <a href="www.illinois.edu">UIUC</a></p>
 
 
 profile:
@@ -14,7 +14,7 @@ social: true
 ---
 
 I am an assistant professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign.
-My main research interests are in information theory and its applications, particularly to computational biology.
+My main research interests are in <em>information theory</em> and its applications, particularly to <em>computational biology</em>.
 
 <!-- My group seeks to develop theoretical models
 Information theory and applications
