@@ -1,7 +1,0 @@
----
-layout: page
-title: ECE310
-description: Digital Signal Processing <br> Fall 2018
-img: #/assets/img/8.jpg
-redirect: https://courses.engr.illinois.edu/ece310/fa2018/
----

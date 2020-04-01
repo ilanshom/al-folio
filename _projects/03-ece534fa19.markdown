@@ -1,7 +1,0 @@
----
-layout: page
-title: ECE534
-description: Random Processes <br> Fall 2019
-img: #/assets/img/9.jpg
-redirect: https://courses.engr.illinois.edu/ece534/fa2019/
----
